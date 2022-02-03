@@ -7,3 +7,4 @@ with open('reviews.txt','r') as f:
 
 print('檔案讀取完畢,總共有', len(data) ,'數據')
 
+print(data[0])
